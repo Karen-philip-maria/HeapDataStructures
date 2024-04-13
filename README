@@ -1,1 +1,25 @@
-# HeapDataStructures .md
+ -HEAPS
+
+ Heaps - it is a complete binary tree data that satisfies the
+ heap property.
+ They are usually used to compare queues, where the smallest or
+ the largest element is always at the root of the tree.
+
+
+-Advantages of Heaps
+
+It is efficient in insertion and deletion
+Efficient priority queue
+There is guaranteed access to max and min element
+It is space efficiency
+It has worst-case time complexity on heap-sort-algorithm 
+
+
+-Disadvantages of Heaps
+
+It lacks flexibility
+It is not ideal for searching
+It has no stable data structures
+Less memory management since it error prone
+
+
